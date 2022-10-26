@@ -24,3 +24,5 @@ set CONSUMER_SECRET=
 set ACCESS_TOKEN=
 set ACCESS_TOKEN_SECRET= 
 ```
+
+Run `python3 news.py`
