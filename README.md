@@ -8,10 +8,19 @@ Install tweepy
 
 Set environment varibles for your Twitter API keys
 
+
+Linux/Mac
 ```
-Linux
 export CONSUMER_KEY=
 export CONSUMER_SECRET=
 export ACCESS_TOKEN=
 export ACCESS_TOKEN_SECRET= 
+```
+
+Windows
+```
+set CONSUMER_KEY=
+set CONSUMER_SECRET=
+set ACCESS_TOKEN=
+set ACCESS_TOKEN_SECRET= 
 ```
